@@ -1,5 +1,5 @@
-# This Arduino sketch is designed for a simple e-bike controller and includes the most commonly used features:
-'''markdown • Read throttle (potentiometer / sensor 0–5V)
+## This Arduino sketch is designed for a simple e-bike controller and includes the most commonly used features:
+• Read throttle (potentiometer / sensor 0–5V)
 • Read brake switch (brake cut-off)
 • Read wheel hall sensor (for speed measurement)
 • Monitor battery voltage (via ADC)
