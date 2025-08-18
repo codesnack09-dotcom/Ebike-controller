@@ -72,8 +72,10 @@ Note: If using a MOSFET gate driver, connect the Arduino PWM output to the gate 
 •	Include flyback diodes and heatsinks to protect MOSFETs.
 •	Current sensor can still feed Arduino for overcurrent cut-off.
  
-#💡 Tip:
+##💡 Tip:
 You can expand this system with:
 •	Bluetooth app for RPM target and mode switching
 •	Data logging of RPM/current/battery voltage
 •	Soft start / ramping for smoother acceleration
+## Support Me
+If you find this project useful, you can support me on [ko-fi.com](https://www.ko-fi.com/codesnack).
