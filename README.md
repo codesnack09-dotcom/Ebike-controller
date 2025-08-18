@@ -1,11 +1,11 @@
 # This Arduino sketch is designed for a simple e-bike controller and includes the most commonly used features:
-• Read throttle (potentiometer / sensor 0–5V)
+'''• Read throttle (potentiometer / sensor 0–5V)
 • Read brake switch (brake cut-off)
 • Read wheel hall sensor (for speed measurement)
 • Monitor battery voltage (via ADC)
 • Output PWM to motor driver / MOSFET (motor power control)
 • Soft-start & safety cut-offs (low voltage / brake / overspeed)
-• Debug output via Serial
+• Debug output via Serial'''
 # ⚠️ IMPORTANT — Safety & Legal Notice
 • This is an educational example. Do not directly connect it to a motor or battery without proper protection. E-bike batteries operate at high voltage and current — mishandling is dangerous.
 • Ensure your motor driver/ESC is compatible with the PWM output from Arduino, or use an interface such as a level shifter / limiter.
